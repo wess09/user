@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,ae as r}from"./chunks/framework.BHrE6nLq.js";const c=JSON.parse('{"title":"碧蓝航线Wiki","description":"","frontmatter":{},"headers":[],"relativePath":"blhxwiki.md","filePath":"blhxwiki.md"}'),p={name:"blhxwiki.md"};function o(h,i,l,k,n,d){return t(),e("div",null,i[0]||(i[0]=[r("",29)]))}const w=a(p,[["render",o]]);export{c as __pageData,w as default};
