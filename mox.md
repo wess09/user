@@ -69,7 +69,6 @@
 - [ ] 完善第三方扩展能力及 AI 生成扩展
 - [ ] 基于 LLM 的自动上下文衔接触发器
 
-> 💡 查看 [扩展列表](./docs/README_Extensions.md) 了解所有可用扩展及其配置说明
 
 ## 🎁 部署指南
 
@@ -184,7 +183,6 @@ EXTENSION_MODULES:
   - extensions.timer # 定时器扩展 (允许 AI 设置定时器，在指定时间触发事件)
 ```
 
-> 💡 完整配置说明请参考 [config.py](https://github.com/KroMiose/nekro-agent/blob/main/nekro_agent/core/config.py) ｜ 扩展配置请参考 [扩展列表](./docs/README_Extensions.md)
 
 ## 🆙 更新应用
 
@@ -231,10 +229,6 @@ SANDBOX_ONEBOT_SERVER_MOUNT_DIR: "/app/nekro_agent_data"
 #### Q: 如何在统一设备上部署多个 NekroAgent 实例？
 
 A: 请先使用 `export NEKRO_DATA_DIR=<你的目录>` 设定好不冲突的目录，然后运行安装脚本并按提示修改 `.env` 文件，设定合适的前缀以避免容器名冲突，设定合适的端口以避免端口冲突，继续完成部署即可
-
-## 🖥️ 开发指南
-
-如果你想为 NekroAgent 项目贡献，或者想在 NekroAgent 实现基础上定制自己的功能，请参考 [开发指南](./docs/README_Advanced.md)
 
 ## 🤝 贡献列表
 
