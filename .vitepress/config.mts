@@ -19,6 +19,7 @@ export default defineConfig({
           { text: '签到系统', link: '/qd' },
           { text: '大模型', link: '/mox' },
           { text: '用户协议', link: '/user' },
+          { text: '点击加群', link: 'https://qm.qq.com/q/rpjGfshSMM' },
         ]
       }
     ],
