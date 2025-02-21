@@ -17,7 +17,8 @@ export default defineConfig({
         items: [
           { text: '碧蓝航线WIKI', link: '/blhxwiki' },
           { text: '签到系统', link: '/qd' },
-          { text: '查看用户协议', link: '/user' },
+          { text: '大模型', link: '/mox' },
+          { text: '用户协议', link: '/user' },
         ]
       }
     ],
