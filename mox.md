@@ -1,5 +1,8 @@
-### 大模型
+# 大模型
 ## 基于开源项目NekroAgent
+
+## 喜欢请去仓库点个Star
+
 # Nekro Agent - 更智能、更优雅的代理执行 AI
 
 <!-- markdownlint-disable MD033 MD041 -->
